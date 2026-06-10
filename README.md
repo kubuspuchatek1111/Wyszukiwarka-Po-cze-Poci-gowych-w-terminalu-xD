@@ -56,7 +56,7 @@ Upewnij się, że pliki projektu są ułożone w następujący sposób. Kluczowe
 
 ```text
 twój-projekt/
-├── data/                      <-- UTWÓRZ TEN FOLDER
+├── data/                     
 │   ├── calendar_dates.txt
 │   ├── stop_times.txt
 │   ├── stops.txt
